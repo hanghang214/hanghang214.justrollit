@@ -1,10 +1,5 @@
-# welcome to the blog of hanghang214!
+# welcome to the blog of hanghang214! 欢迎来到hanghang214的博客！
 The following messages can be ignored since they're all instrutions about how to make a page.
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hanghang214/hanghang214.justrollit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
