@@ -1,3 +1,5 @@
+# welcome to the blog of hanghang214!
+The following messages can be ignored since they're all instrutions about how to make a page.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hanghang214/hanghang214.justrollit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
