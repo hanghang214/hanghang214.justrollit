@@ -1,17 +1,19 @@
 # welcome to the blog of hanghang214! 欢迎来到hanghang214的博客！
-The following messages can be ignored since they're all instrutions about how to make a page.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
-
+# DDL List
+11.5 中兴图灵杯+创业基础
+11.18 编译原理
+11.30 计网课设
+11.30 大创软著ddl
+12.20+- 图形学+马原+密码学+病毒+计网
+12.30 商务安全课设
+2～3月 投稿ddl
+4月 蓝桥杯
 - Bulleted
 - List
 
