@@ -16,10 +16,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 # DDL List
-11.5 中兴图灵杯+创业基础
-11.15 计网课设满分DDL！
-11.18 编译原理
-11.30 计网课设
+11.5 中兴图灵杯+创业基础 Done √
+11.15 计网课设满分DDL！ Done √
+11.18 编译原理 Not yet
 11.30 大创软著ddl
 12.20+- 图形学+马原+密码学+病毒+计网
 12.30 商务安全课设
