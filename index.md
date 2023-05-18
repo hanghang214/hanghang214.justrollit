@@ -1,8 +1,6 @@
-# welcome to the blog of hanghang214! 
+# It's a bird... It's a plane... It's hanghang214!
 
 ### 欢迎来到hanghang214的博客！
-
-Nothin but hanghang214 here！
 
 This is the page for introducing hanghang214, which is a student now studing at NUAA, China.
 
